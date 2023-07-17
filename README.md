@@ -1,16 +1,5 @@
 # irriot
 
-A Smart Irrigation App
+# Description
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An IoT Smart Irrigation App built using flutter as part of graduation project , the app streams sensor readings from firebase realtime database and show it on screen , also it has the ability to control the water pump used in the project (turn it on or off or auto based on the readings of soil mouisture sensor used). 
