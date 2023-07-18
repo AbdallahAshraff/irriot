@@ -1,4 +1,4 @@
-# irriot
+# IrrIoT
 
 # Description
 
